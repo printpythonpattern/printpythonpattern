@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> hello world, welcome to print("python pattern")</h1>
-<h3 align="center">Self-taught, Passionate, Designer from India</h3>
+<h3 align="center">Self-taught, Passionate, Pattern Programmer</h3>
 
 #
 - 🔭 I’m currently working on complex patterns
@@ -10,9 +10,9 @@
 - ⚡ Fun fact: I love to experiment with patterns
 
 #
-<h3 align="left">🛠️ Languages and Tools: </h3>
+<h3 align="left">🛠️ Languages and Tools </h3>
 <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/35/000000/python.png"/> </a>
-<a href="https://https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.icons8.com/color/35/000000/pycharm.png"/> </a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.icons8.com/color/35/000000/pycharm.png"/> </a>
 
 #
 <h3 align="left">🔗 Connect with me </h3>
