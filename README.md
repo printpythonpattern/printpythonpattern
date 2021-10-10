@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on complex patterns
 - 🌱 I’m currently learning **[OpenCV-Python](https://pypi.org/project/opencv-python/)**
 - 💬 Ask me about my Python Projects
-- 📫 How to reach me: printpythonpattern@gmail.com
+- 📫 Reach me at printpythonpattern@gmail.com
 - 😄 Pronouns: I/me/myself
 - ⚡ Fun fact: I love to experiment with patterns
 
